@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Các file cấu hình editor
+.vscode/
+.idea/
+
+# Các file hệ thống
+.DS_Store
+Thumbs.db
+
+# Các file môi trường
+.env
